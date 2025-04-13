@@ -125,3 +125,15 @@ A user-friendly web interface to try the model in real-time.
 To run:
 ```bash
 streamlit run app.py
+
+## ✅ Conclusion
+
+We built and deployed a Pix2Pix-based system that learns to translate real human faces into artistic comic versions. The model preserves both the content and artistic style and demonstrates the power of GANs for creative applications.
+
+---
+
+## 📚 References
+
+1. Isola, P., Zhu, J.Y., Zhou, T., & Efros, A.A. (2017). *Image-to-image translation with conditional adversarial networks*. CVPR.
+2. Nathan Nguyen. *Face2Comic Dataset*, Kaggle.
+3. Goodfellow, I. et al. (2014). *Generative Adversarial Networks*. NeurIPS.
