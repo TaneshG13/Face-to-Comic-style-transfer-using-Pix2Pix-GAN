@@ -129,6 +129,10 @@ To run:
 ```bash
 streamlit run app.py
 ```
+App is live @
+```bash
+ (https://comicface.streamlit.app/)
+```
 
 ## ✅ Conclusion
 
