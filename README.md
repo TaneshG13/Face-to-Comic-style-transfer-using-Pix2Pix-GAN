@@ -6,10 +6,9 @@ This project presents a deep learning-based system that transforms real human fa
 
 ---
 
-## 🧠 Authors
+## 🧠 Author
 
-- **Tanesh Gujar (C256)**
-- **Prerit Patil (C239)**
+- **Tanesh Gujar
 
 ---
 
