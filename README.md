@@ -4,10 +4,11 @@
 
 This project presents a deep learning-based system that transforms real human facial images into comic-style portraits using the **Pix2Pix conditional Generative Adversarial Network (cGAN)**. The model is trained on the **Face2Comic** dataset and demonstrated through a **Streamlit** web application for real-time image translation.
 
+## 🚀 Live Demo
+👉 [Comic Face app](https://comicface.streamlit.app/)
 ---
 
 ## 🧠 Author
-
 - Tanesh Gujar
 
 ---
