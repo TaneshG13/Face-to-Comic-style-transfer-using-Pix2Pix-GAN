@@ -8,7 +8,7 @@ This project presents a deep learning-based system that transforms real human fa
 
 ## 🧠 Author
 
-- **Tanesh Gujar
+- Tanesh Gujar
 
 ---
 
