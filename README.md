@@ -125,6 +125,7 @@ A user-friendly web interface to try the model in real-time.
 To run:
 ```bash
 streamlit run app.py
+```
 
 ## ✅ Conclusion
 
