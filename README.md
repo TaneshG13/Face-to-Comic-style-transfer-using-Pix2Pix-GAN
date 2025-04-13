@@ -105,6 +105,8 @@ where `λ = 100`
 <img src="outputs/output1.png"/>
 <img src="outputs/output2.png"/>
 <img src="outputs/output3.png"/>
+
+---
 - **Success**:
 - High-quality comic faces for well-lit and clear input images
 - Preservation of identity and facial structure
